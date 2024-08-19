@@ -3,6 +3,8 @@
 
 Este es un proyecto desarrollado como parte del Challenge 1 de ALURA LATAM. El objetivo es crear una aplicación web que permita encriptar y desencriptar mensajes de texto siguiendo una lógica específica. 
 
+## Acceso al proyecto
+![Sitio web](https://encriptador-style-figma.vercel.app/)
 ## Características
 
 - **Encriptar texto:** Convierte las vocales en cadenas de texto predefinidas. Según las siguientes reglas:
