@@ -1,5 +1,5 @@
 # Encriptador de Texto - ALURA Challenge 1
-![Pagina web](./assest/encriptador figma.png) 
+![Pagina web](./assest/encriptador-figma.png) 
 
 Este es un proyecto desarrollado como parte del Challenge 1 de ALURA LATAM. El objetivo es crear una aplicación web que permita encriptar y desencriptar mensajes de texto siguiendo una lógica específica. 
 
